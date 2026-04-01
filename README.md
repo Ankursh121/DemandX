@@ -1,5 +1,3 @@
-# DemandX
-
 
 # Retail Demand Prediction System
 
