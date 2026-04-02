@@ -30,16 +30,16 @@ We use a Linear Regression model trained on:
 
 Retail-Demand-Prediction/
 │
-├── app.py
-├── sales.csv
-├── requirements.txt
+├── app.py 
+├── sales.csv 
 ├── README.md
+├── imp_commands.txt 
 │
-├── data/
-│   └── data_processing.py
+├── backend/
+│ └── data_handler.py 
 │
-├── model/
-│   └── train_model.py
+├── ml/
+│ └── model.py 
 │
 ├── utils/
-│   └── visualization.py
+│ └── insights.py 
